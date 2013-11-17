@@ -7,6 +7,7 @@ bool IsOdd(int i){
 	return i  % 2 == 1;
 };
 
+//Returns true if the input integer is a prime number and false if no.
 bool IsPrime(unsigned int i){
 	if(i <=1){return false;}
 
