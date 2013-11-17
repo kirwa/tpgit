@@ -8,6 +8,7 @@ void Increment2(int* n){
 	(*n)++;
 }
 
+//pass by reference
 void Increment3(int& n){
 	n++;
 }
