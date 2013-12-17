@@ -2,6 +2,7 @@
 #include <iostream>
 
 using namespace std;
+//test
 void FunctionInB(void){
 	cout << "hello world" <<endl;
 }
